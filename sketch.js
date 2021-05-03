@@ -26,7 +26,7 @@ function draw() {
 	callMyNameText();
 }
 
-// This functions holds the Diamond element and its properties
+// This function holds the Diamond element and its properties
 function callDiamond()
 {
 	//Sets the fill color of the diamond
@@ -68,7 +68,7 @@ function callDiamond()
 	}
 }
 
-// This functions holds the text element and its properties
+// This function holds the text element and its properties
 function callMyNameText()
 {
 	//The conditional if and else statement below will set the
