@@ -62,7 +62,7 @@ function callDiamond()
 	}
 	
 	//This block sets the moveLeft variable to false
-	//if the first x-coordinate of the diamond is less than zero
+	//if the third x-coordinate of the diamond is less than zero
 	if (x3 < 0){
 		moveLeft = false;
 	}
