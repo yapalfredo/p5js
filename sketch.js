@@ -1,7 +1,7 @@
 // These variables represent the coordinates
 // or the sides of the diamond
-let x1 = 10, x2 = 60, x3 = 110, x4  = x2;
-let y1 = x2, y2 = x1, y3 = y1, y4 = x3;
+let x1 = 10, x2 = 60, x3 = 110, x4  = x2,
+    y1 = x2, y2 = x1, y3 = y1, y4 = x3;
 
 // These variables represent the canvas size
 let canvasX = 600, canvasY = 400;
