@@ -68,6 +68,7 @@ function callDiamond()
 	}
 }
 
+// This functions holds the text element and its properties
 function callMyNameText()
 {
 	//The conditional if and else statement below will set the
